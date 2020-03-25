@@ -1,5 +1,5 @@
-# comp1809-orginial-
-test
+# comp1809-(introduction to computer science and its application)
+
 
 
 How do you see the files changed within each commit from git log? 
